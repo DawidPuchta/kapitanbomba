@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(195, 241, 195);
+}
+.body{
+    text-align: center;
+}
+.header{
+    text-align: center;
+}
+.left{
+    float: left;
+    width: 10%;
+}
+.center{
+    float: left;
+    width: 70%;
+}
+.right{
+    float: left;
+    width: 20%;
+}

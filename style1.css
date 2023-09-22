@@ -1,0 +1,56 @@
+*{
+    background-color: rgb(195, 241, 195);
+
+}
+body{
+    margin: 0;
+}
+.header{
+    background-color: rgb(83, 228, 83);
+    min-height: 108px;
+    box-shadow: 0 10px 5px green;
+    position: relative;
+    z-index: 0;
+}
+.left{
+    float: left;
+    width: 10%;
+}
+.center{
+    float: left;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    height: 800px;
+    display: flex;
+    align-items: center;
+}
+
+.artykul-container {
+    width: 600px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.artykul {
+    width: 250px;
+    height: 250px;
+    margin: 25px;
+    background-color: lightgreen;
+    box-shadow: 10px 10px 5px green;
+}
+
+.right{
+    float: left;
+    width: 10%;
+}
+.kwadraty{
+    
+}
