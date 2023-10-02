@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modest Bomba</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Modest Bomba</h1>
+    </div>
+    <div class="left">
+        <a href="sułtan.html">Sułtan</a>
+    </div>
+    <div class="center">
+        <h2>Brat Kapitana gwiezdnej floty Tytusa Bomby pokazany poraz pierwszy w odcinku nr.115. Nie wiadomo o nim za dużo, wiadomo natomiast, że pracuje w rozgłośni radiowej</h2>
+    </div>
+    <div class="right">
+blalabla
+    </div>
+    
+</body>
+</html>
