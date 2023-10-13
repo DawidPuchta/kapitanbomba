@@ -51,6 +51,8 @@ body{
     float: left;
     width: 10%;
 }
-.kwadraty{
-    
+  
+.artykul:hover{
+    width: 270px;
+    height: 270px;
 }
