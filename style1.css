@@ -48,6 +48,7 @@ body{
 }
 
 .right{
+    text-align: top;
     float: left;
     width: 10%;
 }
